@@ -24,4 +24,4 @@ Historical information about the FBI including famous cases and criminals, inves
 - height: 100px;  
 - #6c6d6f;  
 - логотип интерактивный и ведет на главную страницу.  
-- иконки соцыальных сетей интерактивные transform: scale(1.5); и видут на сайты соц сетей
+- иконки социальных сетей интерактивные transform: scale(1.5); и видут на сайты соц сетей
