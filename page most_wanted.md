@@ -15,3 +15,4 @@
 - внешние отступы между блоками 10px  
 - отрисовать 12 картинок, в зависимости от размера экрана в ряд 3 или 4
 - интерактивные: при наведении изменяется размер, появляется фон, курсор pointer (cursor: pointer; transform: scale(1.5); background-color:blueviolet;)  
+![image](https://user-images.githubusercontent.com/113675674/195981526-4e3b6fb1-d7e1-4785-b4f6-09d8b8bb742a.png)
