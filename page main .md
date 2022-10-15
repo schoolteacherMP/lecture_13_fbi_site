@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/113675674/195978369-f956ce7f-ae2a-46f1-8dff-ce3ddb82cd00.png)
 
 ## 1.2 main  
-- высота блока 800px  
+- высота блока 700px  
 - картинку сделать как бэкграунд (background: url("img/main_img.jpg") no-repeat center;)  
 - input прозрачный ( background-color: transparent;) цвет (color:bisque;), такой же цвет для label  
 - кнопка     width: 100px; height: 35px; так же имеет псевдокласс :hover изменяется курсор мыши( cursor: pointer;), цвет становится background-color: rgb(237, 202, 159);  
