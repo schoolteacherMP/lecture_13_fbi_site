@@ -12,5 +12,6 @@
 - width: 100px; height: 35px;  цвет #f2a74f; при ховере цвет rgb(220, 126, 11);  
 ## 4.6 Иконци соц. сетей интерактивные 
 - (цвет coral; width: 100px; height: 100px;). При наведении мыши меняется размер (transform: scale(1.5);) и цвет (aquamarine;)  
+- ![image](https://user-images.githubusercontent.com/113675674/195998750-606b13c4-db3e-49ba-8c87-9ceb23df6b57.png)
 ## 4.7 footer такой же  
 
