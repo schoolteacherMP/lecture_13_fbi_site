@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/113675674/195978330-bf2152f2-1cb5-4fe2-882c-86d59ff2fe89.png)
+![image](https://user-images.githubusercontent.com/113675674/195978456-33ae7b09-a0a4-44ed-96f7-6696fda5a6ae.png)  
 # 1. Cтраница main (index.html)  
 ## 1.1 header 
 - высота блока 100px  
