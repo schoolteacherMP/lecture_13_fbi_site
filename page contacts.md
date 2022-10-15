@@ -8,7 +8,9 @@
 ![image](https://user-images.githubusercontent.com/113675674/195998682-f06ec25a-c382-431b-bbe2-fb81eb46a047.png)
 ## 4.4 выпадающий список:  
  ![image](https://user-images.githubusercontent.com/113675674/195998667-47b39439-2bac-4963-9dbc-44c5ded45326.png)
-## 4.5 кнопка width: 100px; height: 35px;  цвет #f2a74f; при ховере цвет rgb(220, 126, 11);  
-## 4.6 Иконци соц. сетей интерактивные (цвет coral; width: 100px; height: 100px;). При наведении мыши меняется размер (transform: scale(1.5);) и цвет (aquamarine;)  
+## 4.5 кнопка 
+- width: 100px; height: 35px;  цвет #f2a74f; при ховере цвет rgb(220, 126, 11);  
+## 4.6 Иконци соц. сетей интерактивные 
+- (цвет coral; width: 100px; height: 100px;). При наведении мыши меняется размер (transform: scale(1.5);) и цвет (aquamarine;)  
 ## 4.7 footer такой же  
 
